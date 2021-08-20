@@ -1,0 +1,262 @@
+body {
+  background-color: #2B2B2B;
+}
+
+.HeadDiv {
+  background-color: #423F3E;
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+}
+
+.PizzaLogo {
+  margin-top: 12px;
+  margin-left: 10px;
+  height: 75px;
+}
+
+.PattyHome {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  width: 100%;
+}
+
+.pattyimage {
+  width: 100%;
+}
+
+.heading {
+  display: inline-block;
+  margin: 0;
+  position: relative;
+  font-weight: bold;
+  bottom: 23px;
+  font-family: Andale Mono, monospace;
+  color: #fccb1c;
+  font-size: 35px;
+}
+
+.medheading {
+  display: inline-block;
+  margin: 0;
+  position: relative;
+  font-family: Andale Mono, monospace;
+  color: #fccb1c;
+  font-size: 25px;
+  padding-top: 70px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: center;
+}
+
+h1 {
+  display: inline-block;
+  margin: 0;
+  position: relative;
+  font-weight: bold;
+  font-family: Andale Mono, monospace;
+  color: #fccb1c;
+  font-size: 35px;
+}
+
+.MedDiv {
+  background-color: #423F3E;
+  height: 200px;
+  width: 100%;
+  position: absolute;
+  top: 600px;
+  left: 0;
+  margin: 0;
+}
+
+.homebutton {
+  position: absolute;
+  display: inline-block;
+  right: 305px;
+  bottom: 25px;
+  background-color: #2B2B2B;
+  color: #fccb1c;
+  width: 100px;
+  height: 50px;
+  border-radius: 25px;
+}
+
+.membersbutton {
+  position: absolute;
+  display: inline-block;
+  right: 175px;
+  bottom: 25px;
+  background-color: #2B2B2B;
+  color: #fccb1c;
+  width: 100px;
+  height: 50px;
+  border-radius: 25px;
+}
+
+.contactbutton {
+  position: absolute;
+  display: inline-block;
+  right: 45px;
+  bottom: 25px;
+  background-color: #2B2B2B;
+  color: #fccb1c;
+  width: 100px;
+  height: 50px;
+  border-radius: 25px;
+}
+
+.pizzaMedDiv {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  width: 100%;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/64/NYPizzaPie.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.PizzaMedFont {
+  display: inline-block;
+  position: relative;
+  background-color: #423F3E;
+  border-color: #2B2B2B;
+  border-style: solid;
+  padding: 20px;
+  border-radius: 30px;
+  margin-left: 43.7%;
+  margin-top: 85px;
+  margin-bottom: 85px;
+  color: #fccb1c;
+  font-family: Andale Mono, monospace;
+}
+
+.MedDiv1 {
+  background-color: #423F3E;
+  height: 200px;
+  width: 100%;
+  position: absolute;
+  top: 344px;
+  left: 0;
+  margin: 0;
+}
+
+.medheading1 {
+  display: inline-block;
+  margin: 0;
+  position: relative;
+  font-family: Andale Mono, monospace;
+  color: #fccb1c;
+  font-size: 25px;
+  padding-top: 70px;
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: center;
+}
+
+.MedDiv2 {
+  background-color: #423F3E;
+  height: 250px;
+  width: 100%;
+  position: absolute;
+  top: 564px;
+  left: 0;
+  margin: 0;
+}
+
+.memberImg {
+  height: 200px;
+  width: 200px;
+  margin-left: 25px;
+  margin-top: 25px;
+  border-style: solid;
+  border-color: #2B2B2B;
+  border-radius: 200px;
+}
+
+.membersh1 {
+  display: inline-block;
+  margin: 0;
+  position: absolute;
+  font-weight: bold;
+  font-family: Andale Mono, monospace;
+  color: #fccb1c;
+  font-size: 35px;
+  top: 50px;
+  left: 250px;
+}
+
+.membersP {
+  display: inline-block;
+  margin: 0;
+  position: absolute;
+  font-weight: bold;
+  font-family: Andale Mono, monospace;
+  color: #fccb1c;
+  font-size: 20px;
+  top: 100px;
+  left: 250px;
+}
+
+.membersP1 {
+  display: inline-block;
+  margin: 0;
+  position: absolute;
+  font-weight: bold;
+  font-family: Andale Mono, monospace;
+  color: #fccb1c;
+  font-size: 20px;
+  top: 140px;
+  left: 250px;
+}
+
+.MedDiv3 {
+  background-color: #423F3E;
+  height: 250px;
+  width: 100%;
+  position: absolute;
+  top: 835px;
+  left: 0;
+  margin: 0;
+}
+
+.CtactMedDiv {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  width: 100%;
+  background-image: url(https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/phut_0.jpg?itok=h30EAnkk);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.medheading2 {
+  display: inline-block;
+  margin: 0;
+  position: relative;
+  font-family: Andale Mono, monospace;
+  color: #fccb1c;
+  font-size: 25px;
+  padding-top: 70px;
+  padding-left: 25%;
+  padding-right: 25%;
+  text-align: center;
+}
+
+.CtactBody {
+  display: inline-block;
+  margin: 0;
+  position: relative;
+  font-family: Andale Mono, monospace;
+  color: #fccb1c;
+  font-size: 25px;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+.redditfunny {
+  color: lightblue;
+}
